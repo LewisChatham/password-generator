@@ -1,5 +1,8 @@
 # password-generator
 
+Link to the Deployed URL: https://lewischatham.github.io/password-generator/
+Link to the Github repository: https://github.com/LewisChatham/password-generator
+
 ## Description
 
 This project is a password generator that takes specific criteria and turns them into a password. 
