@@ -1,6 +1,7 @@
 # password-generator
 
 Link to the Deployed URL: https://lewischatham.github.io/password-generator/
+
 Link to the Github repository: https://github.com/LewisChatham/password-generator
 
 ## Description
